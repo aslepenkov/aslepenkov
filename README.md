@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 
 I make Desktop apps & Esri ArcGIS plugins. Inspired in web/native dev
+
 ✔Main stack: C#, .NET Framework, WPF, WinForms
+
 🎯My inspiration: JavaScript, NodeJS, Flutter, React, .NET Core
