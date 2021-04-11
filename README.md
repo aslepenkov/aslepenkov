@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 I develop and maintain an ETL system for #1 broker on Moscow Exchange #MOEX
 
 3+ years of C# .NET Framework experience
+
 2+ years of esri ArcGIS products add-ins developing experience
 
 ✔Main stack: C#, SQL, .NET Framework, WPF, WinForms
+
 🎯My inspiration: JavaScript, NodeJS, Flutter, React, .NET Core
