@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I make Desktop apps & Esri ArcGIS plugins. Inspired in web/native dev
+I develop and maintain an ETL system for #1 broker on Moscow Exchange #MOEX
 
-✔Main stack: C#, .NET Framework, WPF, WinForms
+3+ years of C# .NET Framework experience
+2+ years of esri ArcGIS products add-ins developing experience
 
+✔Main stack: C#, SQL, .NET Framework, WPF, WinForms
 🎯My inspiration: JavaScript, NodeJS, Flutter, React, .NET Core
