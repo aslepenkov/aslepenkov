@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+### I do a .net back-end in 2GIS
 
 <!--
 **aslepenkov/aslepenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +22,4 @@ Here are some ideas to get you started:
 
 ✔Main stack: C#, SQL, .NET Framework, Angular, SSIS/SSAS/SSRS, WPF, WinForms
 
-🎯My inspiration: JavaScript, NodeJS, Flutter, React, .NET Core
+🎯My inspiration: JavaScript, NodeJS, Vue, React, .NET Core
