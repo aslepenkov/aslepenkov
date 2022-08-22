@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 ✔Main stack: C#, SQL, .NET Framework, Angular, SSIS/SSAS/SSRS, WPF, WinForms
 
 🎯My inspiration: JavaScript, NodeJS, Vue, React, .NET Core
+
+<b>⚡ Github Stats</b>
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslepenkov&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
