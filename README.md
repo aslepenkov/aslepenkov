@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 2+ years of esri ArcGIS products add-ins developing experience
 
-✔Main stack: C#, SQL, .NET Framework, Angular, SSIS/SSAS/SSRS, WPF, WinForms
+✔Main stack: C#, SQL, .NET Core, EF, Angular, SSIS/SSAS/SSRS
 
-🎯My inspiration: JavaScript, NodeJS, Vue, React, .NET Core
+🎯My inspiration: JavaScript, NodeJS, Vue, React, Python
 
 <b>⚡ Github Stats</b>
 <p>
