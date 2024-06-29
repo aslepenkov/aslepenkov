@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-5+ years of C# .NET Framework experience
+7+ years of .NET Framework experience
 
 2+ years of esri ArcGIS products add-ins developing experience
 
-✔Main stack: C#, SQL, .NET Core, EF, Angular, SSIS/SSAS/SSRS
+✔Main stack: .NET, SQL, AWS, React
 
-🎯My inspiration: JavaScript, NodeJS, Vue, React, Python
+🎯My inspiration: TypeScript, Python, LLM
 
 <b>⚡ Github Stats</b>
 <p>
