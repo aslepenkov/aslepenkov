@@ -19,6 +19,11 @@ Over 2 years of experience in developing esri ArcGIS products add-ins
 🎯My inspiration: TypeScript, Python, LLM
 
 <b>⚡ Github Stats</b>
+<!--
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslepenkov&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+-->
+<p>
+<img height="180em" src="https://github.com/aslepenkov/aslepenkov.github.io/blob/master/output/chart.png?raw=true"/>
 </p>
