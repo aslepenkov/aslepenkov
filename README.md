@@ -1,24 +1,18 @@
-## Hi there 👋
-### I do a .net back-end in 2GIS
+# Hello there 👋
+### Highly skilled Software Engineer
+Passionate about problem-solving, improving team efficiency, and exploring new technologies to achieve customer goals.
 
-<!--
-**aslepenkov/aslepenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Proficient in .NET and C# / SQL
+- Extensive experience in ETL and GIS technologies
+- Proficient in CI/CD (Jenkins, CircleCI, TeamCity)
+- Experienced in AWS
+- Excellent at collaborating with teams and working independently
+- Skilled in leading Agile ceremonies, organizing and coordinating major meetings and discussions
+- Capable of taking ownership of features, from conception to completion
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-7+ years of .NET Framework experience
-
-2+ years of esri ArcGIS products add-ins developing experience
+## Over 7 years of experience in .NET Software Engineering
+Over 2 years of experience in developing esri ArcGIS products add-ins
 
 ✔Main stack: .NET, SQL, AWS, React
 
