@@ -1,22 +1,15 @@
 # Hello there 👋
-### Highly skilled Software Engineer
-Passionate about problem-solving, improving team efficiency, and exploring new technologies to achieve customer goals.
+### Experienced Software Engineer | .NET | AWS | AI | Microservices
 
-### Proficient in .NET and C# / SQL
-- Extensive experience in ETL and GIS technologies
-- Proficient in CI/CD (Jenkins, CircleCI, TeamCity)
-- Experienced in AWS
-- Excellent at collaborating with teams and working independently
-- Skilled in leading Agile ceremonies, organizing and coordinating major meetings and discussions
-- Capable of taking ownership of features, from conception to completion
+###  Proficient in .NET (C#), AWS, SQL, NoSQL, Python
+- 8+ years of expertise in designing scalable and highly available web applications
+- Proficient in .NET (C#), AWS, SQL, NoSQL, Python
+- Actively exploring and utilizing AI technologies to enhance development processes and innovation
+- Confident in frontend development with JavaScript frameworks (React, Vue, Angular)
+- Experienced in microservices architecture, Docker, REST API design, and CI/CD pipelines
+- Passionate about problem-solving, team efficiency, and cutting-edge technologies to drive customer success
 
-
-## Over 7 years of experience in .NET Software Engineering
-Over 2 years of experience in developing esri ArcGIS products add-ins
-
-✔Main stack: .NET, SQL, AWS, React
-
-🎯My inspiration: TypeScript, Python, LLM
+https://leetcode.com/u/aslepenkov/
 
 <b>⚡ Github Stats</b>
 <!--
