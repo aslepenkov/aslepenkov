@@ -1,0 +1,171 @@
+\documentclass{muratcan_cv}
+
+\setname{Alex Slepenkov}{}
+
+% \setmobile{+1 333-333-3333}
+\setmail{alexmichel249@gmail.com}
+% \setcitizenship{Russian Citizen}
+\setlinkedinaccount{https://www.linkedin.com/in/alex-slepenkov/} 
+\setgithubaccount{https://github.com/aslepenkov} 
+\setthemecolor{MidnightBlue}
+
+\begin{document}
+\vspace{3ex} % white space
+%Create header
+\headerview
+\vspace{1ex} % white space
+%
+\section{Education} 
+    \datedexperience{Master of Engineering - Computer Science}{Sep 2016 - Jun 2018}
+    \explanation{Novosibirsk State University}{Novosibirsk, Russia} 
+    \datedexperience{Bachelor of Engineering - Information Systems}{Sep 2012 - Jun 2016}
+    \explanation{Karaganda State Technical University}{Karaganda, Kazakhstan}
+
+%
+\section{Skills}
+    \newcommand{\skillone}{\createskill{Programming Languages}
+    {C\# \cpshalf SQL \cpshalf JavaScript \cpshalf TypeScript \cpshalf Python \cpshalf XQuery}}
+    %
+    \newcommand{\skilltwo}{\createskill{Tools \& Platforms}
+  
+    {AWS \cpshalf Azure \cpshalf Github CI/CD \cpshalf Jenkins \cpshalf IIS Express \cpshalf Esri (ArcObjects, ArcGIS SDK)}}
+    %
+    \newcommand{\skillthree}{\createskill{Databases}
+    {PostgreSQL  \cpshalf MS SQL Server \cpshalf MongoDB}}
+    %
+    \newcommand{\skillfour}{\createskill{Technologies}
+    {.NET Framework \cpshalf ASP.NET \cpshalf REST APIs \cpshalf Microservices \cpshalf Docker \cpshalf Node.js \cpshalf React.js \cpshalf Angular }}
+    %
+    \createskills{\skillone, \skilltwo, \skillthree, \skillfour}
+    \vspace{-3mm} % reduces whitespace!
+%
+
+
+
+\section{Experience}
+    %
+    \datedexperience{EPAM Systems}{Dec 2022 - Present}
+    \explanation{Software Engineer}{Astana, Kazakhstan}
+    \explanationdetail{
+    \smallskip
+
+     \smallskip
+     \coloredbullet\ %
+     Contributed to the development of a major feature integrating .NET Web API,  a .NET Framework monolith, and a console application via Amazon services,  assisting with decomposition, refinement, and implementation of key user stories.
+
+
+     \smallskip
+     \coloredbullet\ %
+     Conducted thorough testing to ensure system reliability and performance.
+
+     \smallskip
+     \coloredbullet\ %
+     Facilitated daily stand-ups, ensuring smooth team collaboration and progress tracking.
+
+     \smallskip
+     \coloredbullet\ %
+     Mentored junior developers, providing guidance on best practices and technical skills.
+     
+     \smallskip
+     \coloredbullet\ %
+     Optimized database operations, improving query efficiency, and reducing latency.
+
+    }
+    %
+    \datedexperience{2GIS}{Jul 2021 - Dec 2022}
+    \explanation{.NET Software Engineer}{Novosibirsk, Russia}
+    \explanationdetail{
+    \smallskip
+     \coloredbullet\ %
+     
+     \smallskip
+     \coloredbullet\ %
+     Built a high-throughput SSIS ETL pipeline processing 200M+ rows daily for near real-time analytics.
+     
+     \smallskip
+     \coloredbullet\ %
+     Designed and deployed an Excel-to-SQL migration utility, automating manual workflows.
+     
+     \smallskip
+     \coloredbullet\ %
+     Implemented CI pipelines and test environments deploy in TeamCity.
+    }
+    %
+    \datedexperience{FG BCS}{Nov 2020 - Jul 2021}
+    \explanation{Software Engineer}{Novosibirsk, Russia}
+    \explanationdetail{
+    \smallskip
+     \coloredbullet\ %
+     Extended operational data warehouse capabilities to support MetaTrader event ingestion.
+     
+     \smallskip
+     \coloredbullet\ %
+     Enhanced error handling and logging mechanisms, reducing incident triage time.
+
+     \smallskip
+     \coloredbullet\ %
+     Delivered critical backend features for the Data Warehouse support web service, improving  reporting efficiency.
+    }
+    %
+    \datedexperience{XTools Pro, Inc.}{Apr 2018 - Nov 2020}
+    \explanation{Junior Software Engineer}{Novosibirsk, Russia}
+    \explanationdetail{
+    \smallskip
+     \coloredbullet\ %
+     Developed ArcGIS add-ins with WPF-based UI tools, increasing geodata operations productivity.
+     
+     \smallskip
+     \coloredbullet\ %
+     Designed an asynchronous data search algorithm using Task Queues.
+     
+     \smallskip
+     \coloredbullet\ %
+     Engineered Excel data integration features, streamlining workflows inside ArcGIS.
+    }
+    %
+    \datedexperience{EPAM Systems}{Jan 2016 - Aug 2016}
+    \explanation{Junior Software Engineer}{Karaganda, Kazakhstan}
+    \explanationdetail{
+    \smallskip
+     \coloredbullet\ %
+     Built custom VSTO-based UI controls for Microsoft Office suite, improving onboarding experience.
+     
+     \smallskip
+     \coloredbullet\ %
+     Set up automated CI/CD pipelines with Jenkins, cutting manual deployment effort.
+    }
+
+\section{Own Projects}
+     %
+    \datedexperience{dotnetcv}{2025 - Present}
+    % \explanation{Creator and Maintainer}{Remote}
+    \explanationdetail{
+    \smallskip 
+    \coloredbullet\ %
+     Building a production-grade template for .NET backend engineers to bootstrap microservices with Docker Compose, PostgreSQL, AWS LocalStack, and React.
+     \smallskip
+     \coloredbullet\ %
+     Emphasizing modern design patterns (Clean Architecture, CQRS, DDD) and best practices for cloud-native development.
+    }
+    \smallskip
+    \datedexperience{intube}{2023 - 2024}
+    % \explanation{Creator and Maintainer}{Remote}
+    \explanationdetail{
+    \smallskip 
+    \coloredbullet\ %
+    Building a social media downloader and file management app using Telegram Bot Api, Docker, Python, and AWS EC2
+    }
+    \smallskip
+    \datedexperience{stonks}{2022 - 2023}
+    % \explanation{Creator and Maintainer}{Remote}
+    \explanationdetail{
+    \smallskip 
+    \coloredbullet\ %
+    Developing a financial portfolio tracking and analysis tool using JavaScript, integrating data from various stock market APIs for real-time price updates and performance monitoring.
+    \smallskip
+    \coloredbullet\ %
+    Implementing advanced data processing and visualization techniques to provide users with insights on their portfolio’s performance and future growth predictions.
+    
+    }
+
+\end{document}
