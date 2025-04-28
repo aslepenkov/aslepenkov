@@ -59,7 +59,7 @@
 
 \newcommand{\contact}{%
         % {\small \@address  \cps \@citizenship \\ \@mobile \cps \@mail% %%OLD
-        {\small \@mail \ \cpshalf \@mobile %
+        {\small \@mail  \cpshalf \@citizenship %
         \\%
         \linkedinview \cpshalf \githubview \\ 
         } % 
