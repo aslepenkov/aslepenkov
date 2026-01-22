@@ -1,13 +1,15 @@
 # Hello there 👋
-### Senior Software Engineer | .NET | AWS | AI | Microservices
 
-###  Proficient in .NET (C#), AWS, SQL, NoSQL, Python
-- 8+ years of expertise in designing scalable and highly available web applications
-- Proficient in .NET (C#), AWS, SQL, NoSQL, Python
-- Actively exploring and utilizing AI technologies to enhance development processes and innovation
-- Confident in frontend development with JavaScript frameworks (React, Vue, Angular)
-- Experienced in microservices architecture, Docker, REST API design, and CI/CD pipelines
-- Passionate about problem-solving, team efficiency, and cutting-edge technologies to drive customer success
+### 🚀 Senior Software Engineer | .NET | AWS | AI | Microservices
+
+- 🔹 8+ years of experience designing scalable, highly available web applications
+- 🔹 Proficient in .NET (C#), Python, TypeScript
+- 🔹 Strong experience with AWS cloud services and cloud-native system design
+- 🔹 Hands-on with SQL and NoSQL databases
+- 🔹 Actively exploring and applying AI technologies to improve development workflows and innovation
+- 🔹 Confident in frontend development with JavaScript frameworks (React, Vue, Angular)
+- 🔹 Experienced in microservices architecture, Docker, REST API design, and CI/CD pipelines
+- 🔹 Focused on problem-solving, system reliability, team efficiency, and delivering customer value
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-slepenkov) 
