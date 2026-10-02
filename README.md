@@ -1,23 +1,21 @@
 # Hello there 👋
 
-### 🚀 Senior Software Engineer | .NET | AWS | AI | Microservices
+I build the agents, tools, skills and harnesses that let LLMs run the full SDLC (plan, code, test, quality gates, review, CI/CD).
 
-- 🔹 8+ years of experience designing scalable, highly available web applications
-- 🔹 Proficient in .NET (C#), Python, TypeScript
-- 🔹 Strong experience with AWS cloud services and cloud-native system design
-- 🔹 Hands-on with SQL and NoSQL databases
-- 🔹 Actively exploring and applying AI technologies to improve development workflows and innovation
-- 🔹 Confident in frontend development with JavaScript frameworks (React, Vue, Angular)
-- 🔹 Experienced in microservices architecture, Docker, REST API design, and CI/CD pipelines
-- 🔹 Focused on problem-solving, system reliability, team efficiency, and delivering customer value
+- 🔹 8+ years in .NET (C#, .NET Framework); 4+ years shipping scalable TypeScript and AWS platforms
+- 🔹 Agentic AI: custom CLI agents, custom tools, skills and sub-agents, MCP servers, hooks and harness tuning, spec-driven development, TDD
+- 🔹 LLM integration: local models (Ollama) and hosted APIs (OpenAI, Anthropic, NVIDIA NIM), RAG, prompt engineering
+- 🔹 AWS (Lambda, SQS, SNS, S3, IAM) with Terraform, Docker, Kubernetes, observability, GitLab CI and GitHub Actions
+- 🔹 Distributed systems, system design, REST API design, microservices, Clean Architecture, CQRS, DDD, SDD, TDD
+- 🔹 SQL and NoSQL databases: PostgreSQL, MS SQL Server, MongoDB, Redis
+- 🔹 Frontend with React, Angular and TypeScript
+
+At EPAM I designed a distributed integration of legacy .NET systems with cloud-native REST APIs, built agentic debugging tools, an AI code-review assistant and reusable AI skills, and migrated a project from .NET 6 to .NET 10 with AI-assisted workflows.
+
+Personal projects: 42 (an autonomous full-SDLC agent factory), TestCat (a code-analysis agent) and dotnetcv (a microservices demo), all on GitHub: github.com/aslepenkov
+Based in Astana, Kazakhstan. Open to remote work and relocation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-slepenkov) 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aslepenkov) 
 
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=flat&logo=teamcity&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aslepenkov&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
