@@ -12,9 +12,6 @@ I build the agents, tools, skills and harnesses that let LLMs run the full SDLC 
 
 At EPAM I designed a distributed integration of legacy .NET systems with cloud-native REST APIs, built agentic debugging tools, an AI code-review assistant and reusable AI skills, and migrated a project from .NET 6 to .NET 10 with AI-assisted workflows.
 
-Personal projects: 42 (an autonomous full-SDLC agent factory), TestCat (a code-analysis agent) and dotnetcv (a microservices demo), all on GitHub: github.com/aslepenkov
-Based in Astana, Kazakhstan. Open to remote work and relocation.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-slepenkov) 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aslepenkov) 
